@@ -20,3 +20,9 @@ This is a desktop-based Student Registration System developed using Python.The a
  -Pandas (Excel Handling)
  -ReportLab (PDF Generation)
  -Regular Expressions (Validation)
+
+## Future Improvements
+ - Web-based version using Flask/Django
+ -User authentication system
+ -Search and filter functionality
+ -Cloud database integration
